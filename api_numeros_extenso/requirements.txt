@@ -1,6 +1,6 @@
 backcall==0.1.0
 decorator==4.3.2
-Django==2.1.7
+Django==2.2.24
 djangorestframework==3.9.1
 ipdb==0.11
 ipython==7.3.0
